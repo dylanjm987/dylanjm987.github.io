@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Some general notes
-I'm a 20 year old kid from Virginia. Currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with CodeAcademy and I've been sorta interested since then. 
+I'm a 20 year old kid from Virginia. Currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. 
   
 I didn't start taking my education or really anything seriously until this past year or so. I still don't know if I take things seriously but I definitely put in more effort than I used to.
   

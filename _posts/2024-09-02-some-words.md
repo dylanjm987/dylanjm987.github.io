@@ -1,5 +1,5 @@
 ---
-title: Some Writing
+title: Some words
 tags:  []
 layout: post
 description: 

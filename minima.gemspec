@@ -1,10 +1,10 @@
 Gem::Specification.new do |spec|
   spec.name     = "minima"
   spec.version  = "3.0.0.dev"
-  spec.authors  = ["Joel Glovier"]
-  spec.email    = ["jglovier@github.com"]
+  spec.authors  = ["Dylan McEntyre"]
+  spec.email    = ["d01j01m@gmail.com"]
 
-  spec.summary  = "A beautiful, minimal theme for Jekyll."
+  spec.summary  = "A little site using the minima theme for Jekyll."
   spec.homepage = "https://github.com/jekyll/minima"
   spec.license  = "MIT"
 

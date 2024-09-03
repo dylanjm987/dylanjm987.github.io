@@ -15,7 +15,7 @@ A smart man told me that life is learning and I think it would be wasteful to no
 
 ## What can I expect?
 
-Well, I hope you expect nothing. I plan to share and discuss ideas, critique my own and others' ideas, and make an honest attempt to avoid being just another person on the internet.
+Well, I hope you expect nothing. I plan to share and discuss ideas, critique my own and others' ideas, and make an honest attempt at expressing myself.
 
 ## Will it be worth my time?
 

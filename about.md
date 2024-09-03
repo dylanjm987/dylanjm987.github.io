@@ -11,7 +11,7 @@ I didn't start taking my education or really anything seriously until this past 
   
 ## Why?
   
-A smart man told me that life is learning and I think it would be wasteful to not take full advantage of my opportunities to learn. The goal of this site is to learn and have fun along the way. Part of that fun along the way involves gardening, laughing at bad jokes, thinking about thinking, and listening to music. 
+A smart man told me that life is learning and I think it would be wasteful to not take full advantage of my opportunities to learn. The goal of this site is to learn and have fun along the way. Part of that fun along the way involves gardening, laughing, thinking about thinking, and listening to music. 
 
 ## What can I expect?
 

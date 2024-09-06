@@ -26,7 +26,7 @@ Who knows?
 I make no promises.
 
 ## Site specifics
-This site uses Jekyll's Minima theme. You can find out more info about Jekyll at [jekyllrb.com](https://jekyllrb.com/)
+This site uses Jekyll's Minima theme. You can find more info about Jekyll at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

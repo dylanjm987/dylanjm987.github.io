@@ -5,13 +5,12 @@ permalink: /about/
 ---
 
 ## Some general notes
-I'm a 20 year old kid from Virginia. Currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. 
-  
-I didn't start taking my education or really anything seriously until this past year or so. I still don't know if I take things seriously but I definitely put in more effort than I used to.
-  
+
+I'm a 20 year old kid from Virginia who's currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I enjoy gardening, laughing, thinking about thinking, and listening to music.
+
 ## Why?
   
-A smart man told me that life is learning and I think it would be wasteful to not take full advantage of my opportunities to learn. The goal of this site is to learn and have fun along the way. Part of that fun along the way involves gardening, laughing, thinking about thinking, and listening to music. 
+A smart man told me that life is learning and it would be wasteful to not take full advantage of any opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and there will definitely be tears shed along the way.
 
 ## What can I expect?
 

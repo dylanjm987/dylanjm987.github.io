@@ -10,7 +10,7 @@ I'm a 20 year old kid from Virginia who's currently in school trying to get an A
 
 ## Why?
   
-A smart man told me that life is learning and it would be wasteful to not take full advantage of any opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and there will definitely be tears shed along the way.
+A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and there will definitely be tears shed along the way.
 
 ## What can I expect?
 

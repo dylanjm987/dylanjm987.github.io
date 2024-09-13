@@ -8,9 +8,12 @@ permalink: /about/
 
 I'm a 20 year old kid from Virginia who's currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I enjoy gardening, laughing, thinking about thinking, and listening to music.
 
+The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. 
+
 ## Why?
   
 A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and tears will be shed along the way. 
+
 ## What can I expect?
 
 Well, I hope you expect nothing. I plan to share and discuss ideas, critique my own and others' ideas, and make an honest attempt at expressing myself.

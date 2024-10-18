@@ -20,6 +20,8 @@ comments: true
 
 [The Pit](https://pitrailway.blogspot.com/)
 
+[Bonedog by Eva H.D.](https://incessante.medium.com/bonedog-8b177475cf83)
+
 
 ## I wrote
 

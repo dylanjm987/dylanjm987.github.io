@@ -8,8 +8,8 @@ comments: true
 
 ## The beginning of a story?
 
-### The man who thinks a thousand thoughts fills a house. 
-### The man who thinks a million thoughts fills the world.
+#### The man who thinks a thousand thoughts fills a house. 
+#### The man who thinks a million thoughts fills the world.
 
 I’ve had journals for years but didn’t start trying to write until after I crashed my car. Maybe I’ll try to write a story that communicates the car crash but who knows. Who knows what will happen with this. I don’t know anything.
 

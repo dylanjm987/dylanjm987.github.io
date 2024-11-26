@@ -9,6 +9,7 @@ comments: true
 "If you can do a half-assed job of anything, you're a one-eyed man in the kingdom of the blind." -Kurt Vonnegut, _Player Piano_
 
 
+
 ## I Enjoy
 [The Tyranny of Should by Karen Horney](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
 

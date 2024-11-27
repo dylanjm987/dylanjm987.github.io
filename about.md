@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Some general notes
 
-I'm a 20 year old kid from Virginia who's currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I enjoy gardening, laughing, thinking about thinking, and listening to music.
+I'm a 21 year old kid from Virginia who's currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I enjoy gardening, laughing, thinking about thinking, and listening to music.
 
 The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. 
 

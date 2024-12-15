@@ -42,6 +42,8 @@ I'm always updating this list
 
 [O.C.](https://youtu.be/05EW61wUoLU?si=BEYonbqk9yf4wnZm)
 
+[Chappell Roan](https://youtu.be/w4WiXKGCJhg?si=RUZo4pwDzpBYuNZB)
+
 ## Fela Kuti & Africa 70
 [Live in 1978](https://youtu.be/kr8oRpA2SpE?si=o4Jjd5etAEJrajZA)
 

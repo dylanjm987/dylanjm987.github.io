@@ -46,6 +46,8 @@ I'm always updating this list
 
 [Doechii](https://youtu.be/-91vymvIH0c?si=G3k5C14mHwLbYhYH)
 
+[Smif-n-Wessun](https://youtu.be/m_bOjWb0KeI?si=xxkjxQsg5156XHdx)
+
 ## Fela Kuti & Africa 70
 [Live in 1978](https://youtu.be/kr8oRpA2SpE?si=o4Jjd5etAEJrajZA)
 

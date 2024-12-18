@@ -44,6 +44,8 @@ I'm always updating this list
 
 [Chappell Roan](https://youtu.be/w4WiXKGCJhg?si=RUZo4pwDzpBYuNZB)
 
+[Doechii](https://youtu.be/-91vymvIH0c?si=G3k5C14mHwLbYhYH)
+
 ## Fela Kuti & Africa 70
 [Live in 1978](https://youtu.be/kr8oRpA2SpE?si=o4Jjd5etAEJrajZA)
 

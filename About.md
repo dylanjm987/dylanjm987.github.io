@@ -10,7 +10,7 @@ I'm a 21 year old kid from Virginia who's currently in school trying to get an A
 
 The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. 
 
-### 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
+12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
 
 ## Why?
   

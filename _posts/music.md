@@ -55,6 +55,7 @@ I'm always updating this list
 
 ## Fred again..
 [The Lot Radio](https://youtu.be/WiSXx_GcJ-c?si=wwI731PtCabT4t8z)
+[v2](https://youtu.be/9Stt4wq3KCE?si=EI2ZVtsODCkYu63v)
 
 [Boiler Room: London](https://youtu.be/c0-hvjV2A5Y?si=tJpnIACwtyWEcFQ7)
 

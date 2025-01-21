@@ -8,7 +8,9 @@ permalink: /About/
 
 I'm a 21 year old kid from Virginia who's currently in school trying to get an AAS in Information Systems Technology. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I enjoy gardening, laughing, thinking about thinking, and listening to music.
 
-The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. ### 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
+The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. 
+
+### 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
 
 ## Why?
   

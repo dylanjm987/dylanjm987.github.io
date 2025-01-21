@@ -50,6 +50,8 @@ I'm always updating this list
 
 [Mitski](https://youtu.be/0lNFHD0lUAQ?si=nr26a_mn6EoLf3QO)
 
+[Bilal](https://youtu.be/pePbXflDyRM?si=FOBytPfKThdXE6Fm)
+
 ## Fela Kuti & Africa 70
 [Live in 1978](https://youtu.be/kr8oRpA2SpE?si=o4Jjd5etAEJrajZA)
 

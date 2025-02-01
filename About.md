@@ -12,6 +12,7 @@ The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamo
 
 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
 
+2/1 update--Still using the macbook. Will be using an HP EliteDesk 800 G2 Mini running Windows 10.
 ## Why?
   
 A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and tears will be shed along the way. 

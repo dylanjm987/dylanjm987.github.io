@@ -12,7 +12,7 @@ The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamo
 
 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
 
-2/1 update--Still using the macbook but I bought an HP EliteDesk 800 G2 Mini running Windows 10.
+2/1 update--Bought an HP EliteDesk 800 G2 Mini running Windows 10.
 
 ## Why?
   

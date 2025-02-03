@@ -12,22 +12,12 @@ The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamo
 
 12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
 
-2/1 update--Still using the macbook. Will be using an HP EliteDesk 800 G2 Mini running Windows 10.
+2/1 update--Still using the macbook but I bought an HP EliteDesk 800 G2 Mini running Windows 10.
+
 ## Why?
   
-A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. Yeah yeah but why is the site called "Being, Trying, and Crying"? Those three words are the main pillars of my existence. I am a being, all I can do is put in effort, and tears will be shed along the way. 
+I'm not sure. A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. I made this site with the intention of sharing ideas through writing but have not been writing enough. Maybe this spring I'll share pictures of the garden and what I'm working on with that.
 
-## What can I expect?
-
-Well, I hope you expect nothing. I plan to share and discuss ideas, critique my own and others' ideas, and make an honest attempt at expressing myself.
-
-## Will it be worth my time?
-
-Who knows?
-
-## How often will you post?
-
-I make no promises.
 
 ## Site specifics
 This site uses Jekyll's Minima theme. You can find more info about Jekyll at [jekyllrb.com](https://jekyllrb.com/)

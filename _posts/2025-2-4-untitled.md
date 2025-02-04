@@ -7,4 +7,4 @@ comments: true
 ---
 
 
-I'd like to write something about the gamification of intercollegiate debate.
+I'd like to write something about the gamification of interscholastic debate.

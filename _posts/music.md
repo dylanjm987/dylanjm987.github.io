@@ -5,13 +5,11 @@ layout: post
 description: Some tunes
 comments: true
 ---
-
 "The times are in an interesting place, but music is always that universal language that can bring people in a room together." -Jon Batiste
 
 "I'd rather be a pro at being myself than be an idiot trying to be somebody else." -Albert Andrew Shepard
 
 "The music is still beautiful even though the record's broken." -Christian Gates
-
 
 ## A Few Tiny Desk Concerts
 I'm always updating this list

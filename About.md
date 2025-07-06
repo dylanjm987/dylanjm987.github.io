@@ -4,33 +4,29 @@ title: About
 permalink: /About/
 ---
 
-## Some general notes
+## Who
+me, i don't know who i am
 
-I'm a 21 year old kid from Virginia who's currently in school trying to get an associates degree. My 6th grade math teacher introduced me to coding with Codecademy and I've been sorta interested since then. I'm not entirely sure what sort of work I want to do. My main drive is to be the person that I wished I had when I was young. I enjoy gardening, laughing, thinking about thinking, and listening to music.
+## What
+My main drive is to be the person that I wished I had when I was young. I enjoy gardening, listening to music, writing, laughing, thinking about thinking, and sleeping. Originally, I made this site with the intention of sharing some of my writing a few times a month .. that didn't happen. Been journaling but that's about it. Maybe I'll start using this as a journal of sorts.
 
-The main computer I use is a 4th generation Intel NUC running Linux Mint Cinnamon Edition. 
+## When
+Hm, I guess right now, but whenever, really
 
-12/13 update-- The NUC crashed so I'm using my 2015 macbook air now.
-
-2/1 update--Bought an HP EliteDesk 800 G2 Mini running Windows 10.
+## Where
+Earth, Beefoo, and sometimes in between
 
 ## Why?
-  
-I'm not sure. A smart man told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. I made this site with the intention of sharing ideas through writing but have not been writing enough. Maybe this spring I'll share pictures of the garden and what I'm working on with that.
+Still figuring this one out. The main reason _why_ I continue _doing_ anything is fear, and that's a pretty shitty reason for existing. [John]told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. He's more optimistic than me, but generally, I agree with him. 
 
-
-## Site specifics
+## How 
 This site uses Jekyll's Minima theme. You can find more info about Jekyll at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[jekyll][jekyll-organization]/[minima](https://github.com/jekyll/minima)
 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[jekyll][jekyll-organization]/[jekyll](https://github.com/jekyll/jekyll)
+[jekyll-organization](https://github.com/jekyll)
 
 

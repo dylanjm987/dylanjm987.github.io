@@ -17,16 +17,13 @@ Hm, I guess right now, but whenever, really
 Earth, Beefoo, and sometimes in between
 
 ## Why?
-Still figuring this one out. The main reason _why_ I continue _doing_ anything is fear, and that's a pretty shitty reason for existing. [John]told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. He's more optimistic than me, but generally, I agree with him. 
+Still figuring this one out. The main reason _why_ I continue _doing_ anything is fear, and that's a pretty shitty reason for existing. John told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. He's more optimistic than me, but generally, I agree with him. 
 
 ## How 
-This site uses Jekyll's Minima theme. You can find more info about Jekyll at [jekyllrb.com](https://jekyllrb.com/)
+This site uses Jekyll's Minima theme. You can find [more info about Jekyll at](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization]/[minima](https://github.com/jekyll/minima)
+You can find the source code for [Minima on GitHub](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization]/[jekyll](https://github.com/jekyll/jekyll)
-[jekyll-organization](https://github.com/jekyll)
+You can find the source code for [Jekyll on GitHub](https://github.com/jekyll/jekyll)
 
 

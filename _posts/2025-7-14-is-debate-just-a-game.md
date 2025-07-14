@@ -1,5 +1,5 @@
 ---
-title: The Gamification of Interscholastic Debate
+title: Is debate _just_ a game?
 tags:
 layout: post
 description: 

@@ -1,5 +1,5 @@
 ---
-title: Is debate _just_ a game?
+title: Is debate just a game?
 tags:
 layout: post
 description: 

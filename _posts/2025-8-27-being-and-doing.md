@@ -1,5 +1,8 @@
 ---
 title: Being and Doing
+tags:
+layout: post
+description:
 comments: true
 ---
 

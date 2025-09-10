@@ -1,6 +1,8 @@
 ---
-layout: post
 title: untitled
+tags:
+layout: post
+description:
 comments: true
 ---
 
@@ -41,42 +43,3 @@ to be loved
 every child born free
 how can we not see
 it seems so easy
-
-
-Why keep going? Why persist? When it hurts. It stings. Each day we wake up. Perform our routines. Go about our lives as if we are not even alive. I want no part of this. Please let me go. Begging to be let go while holding on as tightly as I can. If that is not the paradox of my life then I’m not sure what is. Writing in search for understanding. Some sense of clarity. 
-What is all of this? Don’t we all want the same things?
-Up and over the hill he goes
-Insecurely attached to his state of being
-Dreaming of running freely
-Ha ha ha
-It’s okay
-Stop chasing
-What are you running from
-Away
-But from what
-This
-Here
-Now
-All of it
-It can’t be
-This is not how it was meant to go
-Weren’t we supposed to grow up
-And be strong
-At least
-Stronger than we were
-But it feels the opposite
-I’m smaller than I was back then
-Weaker than I’ve ever been
-And this stings more than anything
-That it will never come back
-No
-We are forced to move forward
-Chase more
-They say
-Keep going
-You can do it
-But we can’t
-Or maybe
-It’s not that we can’t
-It’s that we won’t
-Because we’re human

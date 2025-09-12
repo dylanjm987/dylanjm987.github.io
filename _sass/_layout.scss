@@ -162,15 +162,15 @@
 
 @media screen and (min-width: $on-large) {
   .footer-col-1 {
-    width: calc(35% - (#{$spacing-unit} / 2));
+    width: calc(50% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-2 {
-    width: calc(20% - (#{$spacing-unit} / 2));
+    width: calc(35% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
-    width: calc(45% - (#{$spacing-unit} / 2));
+    width: calc(55% - (#{$spacing-unit} / 2));
   }
 }
 

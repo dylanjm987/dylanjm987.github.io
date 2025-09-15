@@ -10,7 +10,7 @@ description: >
 
 #minima specifics
 
-remote_theme: jekyll/minima@d4d779a
+theme: minima
 
 plugins:
   - jekyll-feed

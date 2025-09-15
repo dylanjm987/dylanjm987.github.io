@@ -25,7 +25,7 @@ skin: solarized-light
 nav_pages:
 - about.md
 
-date_format: "%b-%d-%Y"
+#date_format: "%b-%d-%Y"
 
 
 social_links:

@@ -19,6 +19,6 @@ Earth, Beefoo, and sometimes in between
 Still figuring this one out. The main reason _why_ I continue _doing_ anything is fear, and that's a pretty shitty reason for existing. John told me that life is learning and it would be wasteful to not take full advantage of every opportunity to learn. He's more optimistic than me, but generally, I agree with him. 
 
 ## How 
-This site uses Jekyll's Minima theme. This is the source code for [Jekyll](https://github.com/jekyll/jekyll) and [Minima]([https://github.com/jekyll/minima). More about Jekyll [here](https://jekyllrb.com/)
+This site uses Jekyll's Minima theme. This is the source code for [Jekyll](https://github.com/jekyll/jekyll) and [Minima]([https://github.com/jekyll/minima) More about Jekyll [here](https://jekyllrb.com/)
 
 

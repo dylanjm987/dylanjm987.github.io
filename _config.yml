@@ -20,18 +20,18 @@ sass:
    quiet_deps: true
    silence_deprecations: [import]
 
+minima:
+   skin: solarized-light
 
-skin: solarized-light
-
-nav_pages:
-- about.md
+   nav_pages:
+   - about.md
 
 #date_format: "%b-%d-%Y"
 
 
-social_links:
-   title: GitHub
-   icon: github
-   url: "https://github.com/dylanjm987"
+   social_links:
+      title: GitHub
+      icon: github
+      url: "https://github.com/dylanjm987"
 
-   hide_site_feed_link: true
+      hide_site_feed_link: true

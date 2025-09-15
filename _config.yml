@@ -5,32 +5,32 @@ author: Dylan McEntyre
    name:GitHub User
    email:d01j01m@gmail.com
 
- description: >
-     Tiger got to hunt, bird got to fly; Man got to sit and wonder, Why, why, why? Tiger got to sleep, bird got to land; Man got to tell himself he understand. -Vonnegut, Cats Cradle
+description: >
+   Tiger got to hunt, bird got to fly; Man got to sit and wonder, Why, why, why? Tiger got to sleep, bird got to land; Man got to tell himself he understand. -Vonnegut, Cats Cradle
 
 #minima specifics
  remote_theme: jekyll/minima@d4d779a
 
- plugins:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
- sass:
+sass:
    quiet_deps: true
    silence_deprecations: [import]
 
 
-  skin: solarized-light
+skin: solarized-light
 
-   nav_pages:
-     - about.md
+nav_pages:
+- about.md
 
-  date_format: "%b-%d-%Y"
+date_format: "%b-%d-%Y"
 
 
-#   social_links:
-       title: GitHub
-       icon: github
-       url: "https://github.com/dylanjm987"
+social_links:
+   title: GitHub
+   icon: github
+   url: "https://github.com/dylanjm987"
 
    hide_site_feed_link: true
